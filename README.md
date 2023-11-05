@@ -1,18 +1,13 @@
 ### Hi there 👋
 
-### SEE My Portfolio here: https://alamnaga.netlify.app
+🌟 Welcome to my GitHub profile! 🌟
 
-<!--
-**alamnaga/alamnaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm Fitra Salam S. Nagalay, a passionate full-stack developer and UI/UX designer. I specialize in creating engaging and intuitive digital experiences.
 
-Here are some ideas to get you started:
+👨‍💻 I'm proficient in a variety of programming languages and frameworks, including Front-End technologies like HTML, CSS, JavaScript, and React, as well as Back-End development using Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **[SEE My Portfolio](https://alamnaga.netlify.app)** to explore my work and projects.
+
+💬 Let's collaborate and build exceptional digital experiences together! Feel free to reach out for any inquiries or collaboration opportunities.
+
+📫 **How to reach me:** [My Email](alamsaungnaga@gmail.com)
