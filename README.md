@@ -64,7 +64,7 @@ I'm Fitra Salam S. Nagalay a full-stack developer and UI/UX designer with a pass
 ## ✨ Fun Fact
 
 <p align='center'>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXltOG5vNG16d3prZG5nMXoxYWZsY2s1NDB6aW1vdDFsNzV6aDF2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6a67zVJ0wMMOzg3YKA/giphy.webp" width="300">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXltOG5vNG16d3prZG5nMXoxYWZsY2s1NDB6aW1vdDFsNzV6aDF2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6a67zVJ0wMMOzg3YKA/giphy.webp" width="200">
 </p>
 
 **"Life is short, make it sweet!"**
