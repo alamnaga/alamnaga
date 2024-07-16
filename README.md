@@ -2,7 +2,6 @@
 
 I'm Fitra Salam S. Nagalay a full-stack developer and UI/UX designer with a passion for creating engaging and intuitive digital experiences. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-
 <p align='center'>
 <a href="https://www.instagram.com/snagalay/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -18,6 +17,10 @@ I'm Fitra Salam S. Nagalay a full-stack developer and UI/UX designer with a pass
 </a>
 </p>
 
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=alamnaga&style=flat-square&color=blue" alt="Visitors Badge"/>
+</p>
+
 ## 🎨 My Skills
 
 - **Frontend Development**: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
@@ -25,7 +28,6 @@ I'm Fitra Salam S. Nagalay a full-stack developer and UI/UX designer with a pass
 - **Mobile Development**: Flutter (Dart)
 - **Data Science**: Python, Machine Learning
 - **Design Tools**: Figma
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding GIF">
@@ -67,5 +69,3 @@ I'm Fitra Salam S. Nagalay a full-stack developer and UI/UX designer with a pass
 </p>
 
 **"Life is short, make it sweet!"**
-
-
