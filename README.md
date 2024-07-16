@@ -34,7 +34,6 @@ I'm Fitra Salam S. Nagalay a full-stack developer and UI/UX designer with a pass
 ## 🔭 My Projects
 
 <a href="https://www.developerpemula.com/" target="_blank">
-    <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpnNGtteXZyODA1aTJ3MDZ2YXJqeWJpazNmNXR3bGgwdmdscHcxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP4jmO461gq9uLzzYc/giphy.webp" width="150" height="150">
     <img src="https://res.cloudinary.com/developerpemula/image/upload/v1700813195/developerpemula/devpemula.png" width="300" height="150" alt="Developer Pemula">
 </a>
 
