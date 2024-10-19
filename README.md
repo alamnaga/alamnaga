@@ -44,7 +44,16 @@ I'm Fitra Salam S. Nagalay a full-stack developer and UI/UX designer with a pass
 - Tech Stack: HTML, CSS, JavaScript, React, Next.js
 - [Visit Developer Pemula](https://www.developerpemula.com/)
 
-### Project 2: Skin Cancer Prediction (On Progress)
+<a href="https://www.setemplate.com/" target="_blank">
+    <img src="https://www.setemplate.com/static/images/twitter-card.png" width="300" height="150" alt="Setemplate">
+</a>
+
+### Project 2: Setemplate  
+- **Description**: A platform offering high-quality web and graphic templates. Setemplate makes it easy to create websites or graphic designs with user-friendly templates.  
+- **Tech Stack**: HTML, CSS, JavaScript, React, Next.js 
+- [Visit Setemplate](https://www.setemplate.com/)
+
+### Project 3: Skin Cancer Prediction (On Progress)
 - Description: A machine learning project to predict skin cancer using CNN.
 - Tech Stack: Python, TensorFlow, Keras
 
